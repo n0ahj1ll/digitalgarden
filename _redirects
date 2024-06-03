@@ -1,4 +1,4 @@
-from = "/src"
+from = "/*"
 to = "https://zhaojin.netlify.app"
 status = 200
 force = true
