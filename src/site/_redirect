@@ -1,4 +1,3 @@
-[[redirects]]
 from = "/src"
 to = "https://zhaojin.netlify.app"
 status = 200
